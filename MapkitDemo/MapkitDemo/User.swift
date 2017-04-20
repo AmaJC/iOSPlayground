@@ -21,4 +21,6 @@ class User: NSObject {
         userLocation = loc
     }
     
+    
+    
 }
